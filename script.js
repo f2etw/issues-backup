@@ -30,7 +30,7 @@
       if (issues.length === PER_PAGE) {
         startPage += 1;
         console.log('+startPage', startPage, allIssues.length);
-        fetchIssues(issueUrl);
+        fetchIssues(fetchIssuesObj);
         return false;
       } else {
         startPage = 1;
@@ -89,6 +89,8 @@
     });
   };
 
+  var fetchIssuesObj;
+
   let backupRepo = ($form) => {
     targetForm = $form;
     let $input = $form.getElementsByTagName('input')[0];
@@ -97,10 +99,12 @@
 
     if (!inputValue.match(/[^/]+?\/[^/]+?/)) { return; }
 
-    fetchIssues({
+    fetchIssuesObj = {
       user: inputValue.split('/')[0],
       repo: inputValue.split('/')[1],
       form: $form
-    });
+    };
+
+    fetchIssues(fetchIssuesObj);
   };
 }
