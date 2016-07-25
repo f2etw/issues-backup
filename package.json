@@ -4,7 +4,7 @@
   "description": "little script with bookmarklet for backup issues: https://gist.github.com/Rplus/63d9c66afa6bd35b778e",
   "main": "index.js",
   "scripts": {
-    "bank": "browser-sync start -s -f='script.js, index.html'",
+    "bank": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/f2etw/issues-backup#readme",
   "devDependencies": {
-    "browser-sync": "^2.12.10"
+    "live-server": "^1.0.0"
   }
 }
