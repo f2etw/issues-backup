@@ -1,5 +1,124 @@
 [
   {
+    "url": "https://api.github.com/repos/f2etw/f2e-notes/issues/95",
+    "repository_url": "https://api.github.com/repos/f2etw/f2e-notes",
+    "labels_url": "https://api.github.com/repos/f2etw/f2e-notes/issues/95/labels{/name}",
+    "comments_url": "https://api.github.com/repos/f2etw/f2e-notes/issues/95/comments",
+    "events_url": "https://api.github.com/repos/f2etw/f2e-notes/issues/95/events",
+    "html_url": "https://github.com/f2etw/f2e-notes/issues/95",
+    "id": 237079040,
+    "number": 95,
+    "title": "http://realfavicongenerator.net/ ，檢查＆生成 favicon",
+    "user": {
+      "login": "Rplus",
+      "id": 1808835,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1808835?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rplus",
+      "html_url": "https://github.com/Rplus",
+      "followers_url": "https://api.github.com/users/Rplus/followers",
+      "following_url": "https://api.github.com/users/Rplus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rplus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rplus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rplus/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rplus/orgs",
+      "repos_url": "https://api.github.com/users/Rplus/repos",
+      "events_url": "https://api.github.com/users/Rplus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rplus/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 224505147,
+        "url": "https://api.github.com/repos/f2etw/f2e-notes/labels/icon",
+        "name": "icon",
+        "color": "fef2c0",
+        "default": false
+      },
+      {
+        "id": 224254617,
+        "url": "https://api.github.com/repos/f2etw/f2e-notes/labels/image",
+        "name": "image",
+        "color": "fad8c7",
+        "default": false
+      },
+      {
+        "id": 224256338,
+        "url": "https://api.github.com/repos/f2etw/f2e-notes/labels/online%20tool",
+        "name": "online tool",
+        "color": "fef2c0",
+        "default": false
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-06-20T02:58:11Z",
+    "updated_at": "2017-06-20T02:58:11Z",
+    "closed_at": null,
+    "body": "Favicon Generator. For real.\r\nhttp://realfavicongenerator.net/\r\n\r\n> The ultimate favicon generator. Design your icons platform per platform and make them look great, everywhere\r\n\r\n可快速檢查 / 生成網站的 favicon\r\n還有各種奇形怪狀的 `<meta>`, `<link>` 相關 tag\r\n\r\n![image](https://user-images.githubusercontent.com/1808835/27314564-4d49286a-55a7-11e7-82a9-6c06cef28c13.png)\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/f2etw/f2e-notes/issues/94",
+    "repository_url": "https://api.github.com/repos/f2etw/f2e-notes",
+    "labels_url": "https://api.github.com/repos/f2etw/f2e-notes/issues/94/labels{/name}",
+    "comments_url": "https://api.github.com/repos/f2etw/f2e-notes/issues/94/comments",
+    "events_url": "https://api.github.com/repos/f2etw/f2e-notes/issues/94/events",
+    "html_url": "https://github.com/f2etw/f2e-notes/issues/94",
+    "id": 232625530,
+    "number": 94,
+    "title": "http://gijsroge.github.io/tilt.js/ ，3D image eddfect",
+    "user": {
+      "login": "Rplus",
+      "id": 1808835,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1808835?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Rplus",
+      "html_url": "https://github.com/Rplus",
+      "followers_url": "https://api.github.com/users/Rplus/followers",
+      "following_url": "https://api.github.com/users/Rplus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Rplus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Rplus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Rplus/subscriptions",
+      "organizations_url": "https://api.github.com/users/Rplus/orgs",
+      "repos_url": "https://api.github.com/users/Rplus/repos",
+      "events_url": "https://api.github.com/users/Rplus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Rplus/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 224833152,
+        "url": "https://api.github.com/repos/f2etw/f2e-notes/labels/animation",
+        "name": "animation",
+        "color": "fef2c0",
+        "default": false
+      },
+      {
+        "id": 224261533,
+        "url": "https://api.github.com/repos/f2etw/f2e-notes/labels/js",
+        "name": "js",
+        "color": "f7c6c7",
+        "default": false
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-05-31T16:37:13Z",
+    "updated_at": "2017-05-31T16:37:13Z",
+    "closed_at": null,
+    "body": "Tilt.js\r\nhttp://gijsroge.github.io/tilt.js/\r\n\r\n> A tiny 60+fps parallax tilt hover effect for jQuery.\r\n> github repo: https://github.com/gijsroge/tilt.js\r\n\r\n就是個炫炫的 3D 圖片效果~\r\n\r\n![](https://camo.githubusercontent.com/56b231bc9f25647e944c92da39f3867ce9a8cc15/687474703a2f2f67696a73726f67652e6769746875622e696f2f74696c742e6a732f74696c742e6a732e676966)"
+  },
+  {
     "url": "https://api.github.com/repos/f2etw/f2e-notes/issues/93",
     "repository_url": "https://api.github.com/repos/f2etw/f2e-notes",
     "labels_url": "https://api.github.com/repos/f2etw/f2e-notes/issues/93/labels{/name}",
@@ -2121,10 +2240,10 @@
     "milestone": null,
     "comments": 2,
     "created_at": "2015-08-11T12:07:47Z",
-    "updated_at": "2017-03-29T03:43:38Z",
+    "updated_at": "2017-06-28T08:47:49Z",
     "closed_at": null,
     "body": "#### CoffeeScript錦囊妙計(:100:)：\r\n\r\nhttps://coffeescript-cookbook.github.io/\r\n\r\nCoffeeScript入門：\r\nhttp://arcturo.github.io/library/coffeescript/index.html\r\n\r\n可以到CoffeeScript官方網站做線上練習：\r\nhttp://coffeescript.org/\r\n\r\nCoffeeScript - The Good Parts免費影音教學：\r\nhttps://www.udemy.com/coffeescript/?couponCode=a\r\n\r\n安裝CoffeeScript\r\n\r\n```\r\n$ npm install -g coffee-script\r\n```\r\n\r\n編譯CoffeeScript\r\n\r\n```\r\n$ coffee -c <檔名>.coffee\r\n```\r\n\r\n自動重新編譯CoffeeScript\r\n\r\n```\r\n$ coffee -cw <檔名>.coffee\r\n```\r\n\r\nCoffeeScript Plugin for Gulp：\r\nhttps://github.com/wearefractal/gulp-coffee\r\n\r\nGUI 工具: Prepros (https://prepros.io/)\r\n",
-    "comments_content": "[\n  {\n    \"url\": \"https://api.github.com/repos/f2etw/f2e-notes/issues/comments/217598684\",\n    \"html_url\": \"https://github.com/f2etw/f2e-notes/issues/58#issuecomment-217598684\",\n    \"issue_url\": \"https://api.github.com/repos/f2etw/f2e-notes/issues/58\",\n    \"id\": 217598684,\n    \"user\": {\n      \"login\": \"Shyam-Chen\",\n      \"id\": 13535256,\n      \"avatar_url\": \"https://avatars2.githubusercontent.com/u/13535256?v=3\",\n      \"gravatar_id\": \"\",\n      \"url\": \"https://api.github.com/users/Shyam-Chen\",\n      \"html_url\": \"https://github.com/Shyam-Chen\",\n      \"followers_url\": \"https://api.github.com/users/Shyam-Chen/followers\",\n      \"following_url\": \"https://api.github.com/users/Shyam-Chen/following{/other_user}\",\n      \"gists_url\": \"https://api.github.com/users/Shyam-Chen/gists{/gist_id}\",\n      \"starred_url\": \"https://api.github.com/users/Shyam-Chen/starred{/owner}{/repo}\",\n      \"subscriptions_url\": \"https://api.github.com/users/Shyam-Chen/subscriptions\",\n      \"organizations_url\": \"https://api.github.com/users/Shyam-Chen/orgs\",\n      \"repos_url\": \"https://api.github.com/users/Shyam-Chen/repos\",\n      \"events_url\": \"https://api.github.com/users/Shyam-Chen/events{/privacy}\",\n      \"received_events_url\": \"https://api.github.com/users/Shyam-Chen/received_events\",\n      \"type\": \"User\",\n      \"site_admin\": false\n    },\n    \"created_at\": \"2016-05-07T02:02:38Z\",\n    \"updated_at\": \"2017-03-29T03:43:38Z\",\n    \"body\": \"轉向 TypeScript ~\\r\\n\\r\\nCoffeeScript 跟標準有許多衝突，但還是可以用，不過照著標準比較好\\r\\n\"\n  },\n  {\n    \"url\": \"https://api.github.com/repos/f2etw/f2e-notes/issues/comments/217678231\",\n    \"html_url\": \"https://github.com/f2etw/f2e-notes/issues/58#issuecomment-217678231\",\n    \"issue_url\": \"https://api.github.com/repos/f2etw/f2e-notes/issues/58\",\n    \"id\": 217678231,\n    \"user\": {\n      \"login\": \"Rplus\",\n      \"id\": 1808835,\n      \"avatar_url\": \"https://avatars0.githubusercontent.com/u/1808835?v=3\",\n      \"gravatar_id\": \"\",\n      \"url\": \"https://api.github.com/users/Rplus\",\n      \"html_url\": \"https://github.com/Rplus\",\n      \"followers_url\": \"https://api.github.com/users/Rplus/followers\",\n      \"following_url\": \"https://api.github.com/users/Rplus/following{/other_user}\",\n      \"gists_url\": \"https://api.github.com/users/Rplus/gists{/gist_id}\",\n      \"starred_url\": \"https://api.github.com/users/Rplus/starred{/owner}{/repo}\",\n      \"subscriptions_url\": \"https://api.github.com/users/Rplus/subscriptions\",\n      \"organizations_url\": \"https://api.github.com/users/Rplus/orgs\",\n      \"repos_url\": \"https://api.github.com/users/Rplus/repos\",\n      \"events_url\": \"https://api.github.com/users/Rplus/events{/privacy}\",\n      \"received_events_url\": \"https://api.github.com/users/Rplus/received_events\",\n      \"type\": \"User\",\n      \"site_admin\": false\n    },\n    \"created_at\": \"2016-05-08T00:13:24Z\",\n    \"updated_at\": \"2016-05-08T00:15:23Z\",\n    \"body\": \"不用關票唷~\\n\\n這篇主題是 CoffeeScript 推廣，而不是在比較語言適不適用 ：)\\n\"\n  }\n]\n"
+    "comments_content": "[\n  {\n    \"url\": \"https://api.github.com/repos/f2etw/f2e-notes/issues/comments/217598684\",\n    \"html_url\": \"https://github.com/f2etw/f2e-notes/issues/58#issuecomment-217598684\",\n    \"issue_url\": \"https://api.github.com/repos/f2etw/f2e-notes/issues/58\",\n    \"id\": 217598684,\n    \"user\": {\n      \"login\": \"Shyam-Chen\",\n      \"id\": 13535256,\n      \"avatar_url\": \"https://avatars2.githubusercontent.com/u/13535256?v=3\",\n      \"gravatar_id\": \"\",\n      \"url\": \"https://api.github.com/users/Shyam-Chen\",\n      \"html_url\": \"https://github.com/Shyam-Chen\",\n      \"followers_url\": \"https://api.github.com/users/Shyam-Chen/followers\",\n      \"following_url\": \"https://api.github.com/users/Shyam-Chen/following{/other_user}\",\n      \"gists_url\": \"https://api.github.com/users/Shyam-Chen/gists{/gist_id}\",\n      \"starred_url\": \"https://api.github.com/users/Shyam-Chen/starred{/owner}{/repo}\",\n      \"subscriptions_url\": \"https://api.github.com/users/Shyam-Chen/subscriptions\",\n      \"organizations_url\": \"https://api.github.com/users/Shyam-Chen/orgs\",\n      \"repos_url\": \"https://api.github.com/users/Shyam-Chen/repos\",\n      \"events_url\": \"https://api.github.com/users/Shyam-Chen/events{/privacy}\",\n      \"received_events_url\": \"https://api.github.com/users/Shyam-Chen/received_events\",\n      \"type\": \"User\",\n      \"site_admin\": false\n    },\n    \"created_at\": \"2016-05-07T02:02:38Z\",\n    \"updated_at\": \"2017-06-28T08:47:49Z\",\n    \"body\": \"\\r\\n![bg](https://user-images.githubusercontent.com/13535256/27623504-5bb3d440-5c0f-11e7-8354-0ba2a0ea7c05.png)\\r\\n\\r\\n![shopping-bags_bw](https://user-images.githubusercontent.com/13535256/27625796-52b14e6e-5c18-11e7-9856-88636f4a27fa.jpg)\\r\\n\\r\\n![590_farmers_market_buying_red_apple_bw](https://user-images.githubusercontent.com/13535256/27625799-5856301e-5c18-11e7-8493-d05b3d4979f8.jpg)\\r\\n\\r\\n![img](https://user-images.githubusercontent.com/13535256/27628400-82150944-5c21-11e7-8f9a-01b3d417006c.png)\\r\\n\\r\\n轉向 TypeScript ~\\r\\n\\r\\nCoffeeScript 跟標準有許多衝突，但還是可以用，不過照著標準比較好\\r\\n\"\n  },\n  {\n    \"url\": \"https://api.github.com/repos/f2etw/f2e-notes/issues/comments/217678231\",\n    \"html_url\": \"https://github.com/f2etw/f2e-notes/issues/58#issuecomment-217678231\",\n    \"issue_url\": \"https://api.github.com/repos/f2etw/f2e-notes/issues/58\",\n    \"id\": 217678231,\n    \"user\": {\n      \"login\": \"Rplus\",\n      \"id\": 1808835,\n      \"avatar_url\": \"https://avatars0.githubusercontent.com/u/1808835?v=3\",\n      \"gravatar_id\": \"\",\n      \"url\": \"https://api.github.com/users/Rplus\",\n      \"html_url\": \"https://github.com/Rplus\",\n      \"followers_url\": \"https://api.github.com/users/Rplus/followers\",\n      \"following_url\": \"https://api.github.com/users/Rplus/following{/other_user}\",\n      \"gists_url\": \"https://api.github.com/users/Rplus/gists{/gist_id}\",\n      \"starred_url\": \"https://api.github.com/users/Rplus/starred{/owner}{/repo}\",\n      \"subscriptions_url\": \"https://api.github.com/users/Rplus/subscriptions\",\n      \"organizations_url\": \"https://api.github.com/users/Rplus/orgs\",\n      \"repos_url\": \"https://api.github.com/users/Rplus/repos\",\n      \"events_url\": \"https://api.github.com/users/Rplus/events{/privacy}\",\n      \"received_events_url\": \"https://api.github.com/users/Rplus/received_events\",\n      \"type\": \"User\",\n      \"site_admin\": false\n    },\n    \"created_at\": \"2016-05-08T00:13:24Z\",\n    \"updated_at\": \"2016-05-08T00:15:23Z\",\n    \"body\": \"不用關票唷~\\n\\n這篇主題是 CoffeeScript 推廣，而不是在比較語言適不適用 ：)\\n\"\n  }\n]\n"
   },
   {
     "url": "https://api.github.com/repos/f2etw/f2e-notes/issues/57",
